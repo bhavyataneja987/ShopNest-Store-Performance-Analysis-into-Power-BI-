@@ -1,4 +1,4 @@
-# 🏬 Capstone Poject on Power BI
+# 🏬 ShopNest Sales Performance Dashboard in Power BI
 
 ## 📌 Project Overview  
 This project analyzes **ShopNest's store performance** using **Power BI** to provide actionable insights on sales trends, customer behavior, and product performance.  
